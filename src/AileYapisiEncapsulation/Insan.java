@@ -346,7 +346,7 @@ public class Insan {
         Insan.insanBul("kezban", "karadeniz").get(0).cocukYap("Abdullah", 1, 1, 1970, 'E');
         Insan.insanBul("kezban", "karadeniz").get(0).cocukYap("Elmas", 1, 1, 1973, 'K');
         Insan.insanBul("kezban", "karadeniz").get(0).cocukYap("Faruk", 1, 1, 1975, 'E');
-        Insan.insanBul("kezban", "karadeniz").get(0).cocukYap("Aysen", 15, 3, 1977, 'K');
+        Insan.insanBul("kezban", "karadeniz").get(0).cocukYap("Aysen", 1, 1, 1979, 'K');
 
         insanBul("ertugrul", "aslan").get(0).evlen(saide);
         Insan.insanBul("salim", "yildiz").get(0).evlen(insanBul("ayse", "karadeniz").get(0));

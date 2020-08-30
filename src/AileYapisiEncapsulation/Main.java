@@ -29,19 +29,5 @@ public class Main {
                 form2.setVisible(true);
             }
         });
-        /*
-        SwingUtilities.invokeLater(new Runnable() {
-            @Override
-            public void run() {
-                FormKisiBilgileri formKisiBilgileri = new FormKisiBilgileri();
-                //  JOptionPane.setRootFrame(formKisiBilgileri);
-                //formKisiBilgileri.setVisible(true);
-            }
-
-
-        });
-
-         */
-
     }
 }
